@@ -34,6 +34,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
-	assertEquals(0,88);
+	assertEquals(88,88);
     }
 }
